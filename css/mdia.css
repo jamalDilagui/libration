@@ -1,0 +1,38 @@
+@media(max-width: 767px){
+    .header1{
+        width: 99% !important;
+    }
+    .slide_header{
+        width: 76% !important;
+        left: 120px !important;
+    }
+    .portable_music{
+        top: 426px !important;
+    }
+    
+}
+
+@media(max-width: 767px){
+    .col-md-12{
+        width: 145% !important;
+        text-align: left !important;
+        line-height: 2em !important;
+        left: -187px;
+    }   
+
+    .col-md-12 div{
+        width: 71%;
+    }
+    
+    .col-md-12 h3{
+        font-size: 27px;
+    }
+}
+
+@media(max-width: 767px){
+    .col-md-6{
+        width: 50%;
+    display: inline-block;
+    }   
+
+}
